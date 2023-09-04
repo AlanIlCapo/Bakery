@@ -1,0 +1,13 @@
+
+
+img.img-carousel {
+	align-items: center;
+	width:fit-content ;
+}
+
+@media(max-width:991px) {
+
+    img.img-carousel {
+        object-fit: scale-down;
+    }
+}

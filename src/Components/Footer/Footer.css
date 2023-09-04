@@ -1,0 +1,59 @@
+.footer{
+    font-family: 'Frank Ruhl Libre', sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.footer-row{
+    box-sizing: border-box;
+    list-style-type: none;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.footer-links{
+    width: 25%;
+    padding: 0 15px;
+}
+
+.footer-links h4{
+    font-size: 20px;
+    margin-bottom: 25px;
+    font-weight: 500;
+    border-bottom: 2px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+.footer-links ul li{
+    list-style: none;
+}
+
+.footer-links ul li a{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin-bottom: 15px;
+    transition: all .3s ease;
+}
+
+.footer-links ul li a:hover{
+    padding-left: 10px;
+}
+
+
+.social-links a{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin-bottom: 15px;
+    transition: all .3s ease;
+}
+
+.social-links a:hover{
+    padding-left: 10px;
+}
