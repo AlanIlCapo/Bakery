@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import Carousel from 'better-react-carousel';
-import bread from '../assets/Images/bread.png';
+import bread from '../assets/Images/bread_table.png';
 import bagels from '../assets/Images/bagels.png';
 import cake from '../assets/Images/cake.png';
 import croissant from '../assets/Images/croissant.png'
