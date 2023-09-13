@@ -1,5 +1,5 @@
 import React from 'react';
-import Coffeshop from '../assets/Images/Coffeshop.png';
+import Coffeshop from '../assets/Images/CoffeShop.png';
 import './Contact.css';
 
 const Contact = () => {
