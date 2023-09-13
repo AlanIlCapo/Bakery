@@ -9,19 +9,19 @@ const News = () => {
         <div className='cards-news'>
             <div className='card-news'>
                 <div className='card-content'>
-                    <img src={CarrotCake}  class='img'/>
+                    <img src={CarrotCake}  className='img'/>
                     <h4>CARROT CAKE</h4>
                 </div>
             </div>
             <div className='card-news'>
                 <div className='card-content'>
-                    <img src={DulceDeLecheCake}  class='img'/>
+                    <img src={DulceDeLecheCake}  className='img'/>
                     <h4>DULCE DE LECHE CAKE</h4>
                 </div>
             </div>
             <div className='card-news'>
                 <div className='card-content'>
-                    <img src={BreadTable}  class='img'/>
+                    <img src={BreadTable}  className='img'/>
                     <h4>WHOLEMEAL SOURDOUHG</h4>
                 </div>
             </div>

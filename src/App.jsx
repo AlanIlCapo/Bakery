@@ -23,15 +23,6 @@ function App() {
       <hr></hr>
       <Footer/>
 
-
-      
-      
-      
-
-
-
-
-
     </>
   )
 }
